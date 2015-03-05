@@ -1,0 +1,7 @@
+/dist/
+/node_modules/
+/vendor/bower/
+/test/coverage/
+/.sass-cache/
+.DS_Store
+app/sass/.sass-cache/
